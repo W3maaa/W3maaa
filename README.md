@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @W3maaa
 - 👀 I’m interested in AI|Programming.
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently learning Computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me @muimicollins@gmail.com
 - 😄 Pronouns: He/Him
